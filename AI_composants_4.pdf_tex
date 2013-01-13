@@ -64,6 +64,6 @@ Interactions}}}}%
     \put(0.44409103,0.94518732){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Formats}}}%
     \put(0.42168266,0.93937596){\color[rgb]{0,0,0}\rotatebox{70.98016059}{\makebox(0,0)[lb]{\smash{Sûreté}}}}%
     \put(0.40741527,1.19007295){\color[rgb]{0,0,0}\rotatebox{-33.65126825}{\makebox(0,0)[lb]{\smash{Contenus}}}}%
-    \put(0.39156064,0.32096365){\color[rgb]{1,0.09411765,0.09411765}\makebox(0,0)[lb]{\smash{UX}}}%
+    \put(0.39156064,0.32096365){\color[rgb]{0.09411765,1,0.97254902}\makebox(0,0)[lb]{\smash{UX}}}%
   \end{picture}%
 \endgroup%
